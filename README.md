@@ -14,5 +14,3 @@ Using ESP8266 WeMos D1 Mini with MPU6050 acceleromter to detect position of the 
 
 [WeMos D1 Mini](https://www.wemos.cc/product/d1-mini.html) 
 
-
-test
