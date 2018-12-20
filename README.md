@@ -1,4 +1,4 @@
-# SaveBB Congressional App Competiton 
+# SaveBB Congressional App Challenge 
 
 ### SaveBB_Runtime - Mobile App Backend (Cloud side)
 
